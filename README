@@ -1,0 +1,7 @@
+==Build==
+
+$node-waf configure
+$node-waf build
+
+==Run==
+$node test.js
